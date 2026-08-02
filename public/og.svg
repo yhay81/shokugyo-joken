@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <rect x="58" y="54" width="1084" height="522" rx="22" fill="#dfe5dc" stroke="#aebcb6" stroke-width="2"/>
+  <rect x="94" y="94" width="440" height="442" fill="#19353b"/>
+  <text x="140" y="170" fill="#e7a52d" font-family="sans-serif" font-size="25" font-weight="700">2023—2025 · ハローワーク</text>
+  <text x="140" y="257" fill="#fffdf7" font-family="sans-serif" font-size="56" font-weight="800">職種求人条件</text>
+  <text x="140" y="325" fill="#cbd9d5" font-family="sans-serif" font-size="28">賞与と通勤手当を</text>
+  <text x="140" y="365" fill="#cbd9d5" font-family="sans-serif" font-size="28">職種ごとに比較</text>
+  <rect x="140" y="430" width="106" height="48" rx="4" fill="#e7a52d"/>
+  <text x="164" y="462" fill="#19353b" font-family="sans-serif" font-size="19" font-weight="800">73職種</text>
+  <g transform="rotate(-2 830 315)">
+    <rect x="610" y="110" width="438" height="420" fill="#fffdf7" stroke="#aebcb6" stroke-width="3"/>
+    <rect x="640" y="142" width="50" height="38" fill="#19353b"/>
+    <text x="654" y="168" fill="#fff" font-family="sans-serif" font-size="17" font-weight="700">25</text>
+    <text x="710" y="170" fill="#19353b" font-family="sans-serif" font-size="27" font-weight="700">一般事務従事者</text>
+    <path d="M642 205h374" stroke="#cbd3cd" stroke-width="2"/>
+    <rect x="650" y="252" width="164" height="112" fill="none" stroke="#d9634c" stroke-width="6"/>
+    <text x="682" y="292" fill="#d9634c" font-family="sans-serif" font-size="19" font-weight="700">賞与あり</text>
+    <text x="684" y="337" fill="#d9634c" font-family="sans-serif" font-size="37" font-weight="800">65.0%</text>
+    <rect x="843" y="252" width="164" height="112" fill="none" stroke="#157a78" stroke-width="6"/>
+    <text x="859" y="292" fill="#157a78" font-family="sans-serif" font-size="18" font-weight="700">通勤手当あり</text>
+    <text x="876" y="337" fill="#157a78" font-family="sans-serif" font-size="37" font-weight="800">95.1%</text>
+    <text x="650" y="444" fill="#49636a" font-family="sans-serif" font-size="20">2025年度 · パートを含む常用</text>
+  </g>
+</svg>

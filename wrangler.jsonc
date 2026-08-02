@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shokugyo-joken",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-29",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "shokugyo-joken.yhay81.com", "custom_domain": true }],
+  "triggers": { "crons": ["37 22 * * *"] },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "shokugyo-joken",
+      "database_id": "526c595c-cf14-4fd5-9775-28c23c4220f3",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+}

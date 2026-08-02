@@ -1,0 +1,10 @@
+{
+  "name": "職種求人条件",
+  "short_name": "求人条件",
+  "description": "職種別に賞与・通勤手当の求人割合を比較",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#19353b",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
